@@ -33,10 +33,10 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "说来惭愧",
-        bannar_coming: "10点后我还是没有学习",
+        bannar_coming: "10点后我还是没有好好学习",
         balloons_flying: "搞了个这个东西出来",
         cake_fadein: "猜猜这是个啥[",
-        light_candle: "我想聪明的你应该能猜到",
+        light_candle: "我想聪明的你应该早就看出来了[",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
     }
